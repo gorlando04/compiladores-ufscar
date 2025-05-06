@@ -1,0 +1,12 @@
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t3/TabelaDeSimbolos.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t3/LALexer.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t3/LAVisitor.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t3/Escopo.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t3/LABaseListener.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t3/Auxiliar.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t3/EntradaTabelaDeSimbolos.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t3/LABaseVisitor.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t3/LAListener.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t3/LAParser.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t3/Principal.java
+/home/gab04/Desktop/compiladores-ufscar/T3/analisador-semantico-t3/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t3/LASemantico.java
