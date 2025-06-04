@@ -1,0 +1,13 @@
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t5/LASemantico.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t5/LAParser.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t5/EntradaTabelaDeSimbolos.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t5/LAVisitor.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t5/Escopo.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t5/Auxiliar.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t5/Principal.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t5/LABaseListener.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t5/TabelaDeSimbolos.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/src/main/java/br/ufscar/dc/compiladores/analisador/semantico/t5/Gerador.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t5/LABaseVisitor.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t5/LALexer.java
+/home/gab04/Desktop/compiladores-ufscar/T5/analisador-semantico-t5/target/generated-sources/antlr4/br/ufscar/dc/compiladores/analisador/semantico/t5/LAListener.java
